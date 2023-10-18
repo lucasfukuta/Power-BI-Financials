@@ -9,4 +9,7 @@ Descrição do desafio: Você irá criar um relatório mais elaborado com base n
 
 https://github.com/julianazanelatto/power_bi_analyst 
 
-##
+## Imagem do Report
+
+### Primeira página:
+
