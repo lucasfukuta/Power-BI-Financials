@@ -2,12 +2,11 @@
 Resolvendo desafios propostos na DIO, utilizando Power BI.
 
 ## Plataforma
-![powerbi](https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=powerbi&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-000?style=for-the-badge&logo=power-bi)
 
-## Desafios
-### Desafio 1
-Descrição
+## Instruções de Entrega do Desafio
+Descrição do desafio: Você irá criar um relatório mais elaborado com base na sample financials do Power BI. Os arquivos de dados estão disponíveis no github: 
 
-Para esse desafio, considere que você foi contratado por uma empresa bancária para auxiliar nas implementações e melhorias do sistema empresarial. Em uma análise inicial, foi identificado pela equipe financeira a necessidade de desenvolver uma solução que permita ao cliente equilibrar seu saldo bancário. Dessa forma, o programa deve solicitar uma entrada que representa o saldo atual do funcionário, e após, seja informado o valor de duas transações, sendo elas: um depósito e um saque. O programa deve atualizar o saldo com base nas transações e exibir o saldo final.
+https://github.com/julianazanelatto/power_bi_analyst 
 
-Informação: As transações de depósito e retirada devem ser tratadas como valores positivos e negativos, respectivamente, para garantir que o cálculo do saldo final seja realizado corretamente.
+##
