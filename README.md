@@ -12,4 +12,7 @@ https://github.com/julianazanelatto/power_bi_analyst
 ## Imagem do Report
 
 ### Primeira página:
+![Pag1](https://github.com/lucasfukuta/Power-BI-Financials/blob/main/pag1.png)
 
+### Segunda página:
+![Pag2](https://github.com/lucasfukuta/Power-BI-Financials/blob/main/pag2.png)
