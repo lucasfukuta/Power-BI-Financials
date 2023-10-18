@@ -20,3 +20,4 @@ https://github.com/julianazanelatto/power_bi_analyst
 ### Download do projeto:
 Para realizar o download do projeto basta clicar no link a seguir:
 
+https://github.com/lucasfukuta/Power-BI-Financials/blob/main/Desafio%20BI.pbix
