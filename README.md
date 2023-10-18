@@ -16,3 +16,7 @@ https://github.com/julianazanelatto/power_bi_analyst
 
 ### Segunda página:
 ![Pag2](https://github.com/lucasfukuta/Power-BI-Financials/blob/main/pag2.png)
+
+### Download do projeto:
+Para realizar o download do projeto basta clicar no link a seguir:
+
